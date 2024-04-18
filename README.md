@@ -1,4 +1,4 @@
-# E-Book-06: Village Management Information System (Indonesian version)
+# E-Book-07: Village Management Information System (Indonesian version)
 
 <p align="center">
   <img src="https://github.com/bsrahmat/ebook-07/blob/main/SIMDES.jpg" alt="" class="img-responsive" width="700">
