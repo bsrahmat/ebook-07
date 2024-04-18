@@ -8,7 +8,7 @@
 
 - <a href="https://github.com/bsrahmat/ebook-07/blob/main/EBook07_Simdes.pdf" target="_blank">EBook07_Simdes.pdf</a>
 
-- <a href="" target="_blank"></a>
+- <a href="https://www.academia.edu/117685473" target="_blank">https://www.academia.edu/117685473</a>
 
 - <a href="" target="_blank"></a>
 
