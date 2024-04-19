@@ -25,6 +25,12 @@
 
 <br>
 
+### The complete source code for the programs in this book can be downloaded here:
+
+- <a href="https://github.com/bsrahmat/simdes" target="_blank">https://github.com/bsrahmat/simdes</a>
+
+<br>
+
 ### Bib-tex file to cite this book:
 
 - <a href="https://github.com/bsrahmat/ebook-07/blob/main/EBook07_Simdes.bib" target="_blank">EBook07_Simdes.bib</a>
